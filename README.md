@@ -36,7 +36,7 @@
 
 ### Compilation
 
-`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+`gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o h`
 
 ### Invocation
 
@@ -320,16 +320,16 @@ $
 
 ## Authors ##
 
-👤 **OBED EHONEAH**
+👤 **FRANCIS MWANGI**
 
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
+- GitHub: [@Mwangi](https://github.com/helykish)
+- Twitter: [@Ndiras](https://twitter.com/mwas-ndiras)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/siqnax)
+- Blog: [Personal Blog](https://blog.siqnax.com)
 
-👤 **JUSTICE MENSAH BLAY MEWUBE**
+👤 **IAN ODHIAMBO**
 
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
+- GitHub: [@Ian](https://github.com/iannH-ALX)
+- LinkedIn: [LinkedIn](linkedin.com/in/mens-ice)
+- Twitter: [@ian](https://twitter.com/ju-cemensahb)
 
